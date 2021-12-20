@@ -10,6 +10,7 @@ description = "Tools to manage the duck repository"
 
 [dependencies]
 clap = "3.0.0-rc.7"
+chrono = "0.4"
 log = "0.4"
 env_logger = "0.9"
 tempfile = "3.1"
